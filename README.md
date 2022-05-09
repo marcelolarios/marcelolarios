@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marcelolarios
+- 👀 I’m interested in algorithms
+- 🌱 I’m currently learning a lot about algorithms
+- 💞️ I <s>am looking to</s> collaborate on algorithms
+- 📫 How to reach me? just send a message
